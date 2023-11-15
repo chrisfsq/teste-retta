@@ -41,7 +41,8 @@ input {
     border-radius: 5px 0 0 5px;
     border-style: none;
     border: 2px solid  #ffffff;
-    color: #5A4529
+    color: #5A4529;
+    box-shadow:2px 2px #2d2d2f88;
 }
 
 input.btn {
